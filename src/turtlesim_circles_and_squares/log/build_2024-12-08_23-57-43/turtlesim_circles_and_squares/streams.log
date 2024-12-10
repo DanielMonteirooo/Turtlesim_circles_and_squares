@@ -1,0 +1,21 @@
+[0.564s] Invoking command in '/home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares': PYTHONPATH=/home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/turtlesim_circles_and_squares build --build-base /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build install --record /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/install.log --single-version-externally-managed install_data
+[0.776s] running egg_info
+[0.776s] writing build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/PKG-INFO
+[0.776s] writing dependency_links to build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/dependency_links.txt
+[0.776s] writing entry points to build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/entry_points.txt
+[0.776s] writing requirements to build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/requires.txt
+[0.776s] writing top-level names to build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/top_level.txt
+[0.777s] reading manifest file 'build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/SOURCES.txt'
+[0.778s] writing manifest file 'build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/SOURCES.txt'
+[0.778s] running build
+[0.778s] running build_py
+[0.778s] running install
+[0.779s] running install_lib
+[0.779s] running install_data
+[0.780s] running install_egg_info
+[0.781s] removing '/home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/turtlesim_circles_and_squares-0.0.0-py3.10.egg-info' (and everything under it)
+[0.781s] Copying build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info to /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/turtlesim_circles_and_squares-0.0.0-py3.10.egg-info
+[0.782s] running install_scripts
+[0.797s] Installing move_turtles script to /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/turtlesim_circles_and_squares
+[0.798s] writing list of installed files to '/home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/install.log'
+[0.815s] Invoked command in '/home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares' returned '0': PYTHONPATH=/home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/turtlesim_circles_and_squares build --build-base /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build install --record /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/install.log --single-version-externally-managed install_data

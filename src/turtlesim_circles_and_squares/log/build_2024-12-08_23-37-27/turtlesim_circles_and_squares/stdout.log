@@ -1,0 +1,42 @@
+running egg_info
+creating build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info
+writing build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/PKG-INFO
+writing dependency_links to build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/dependency_links.txt
+writing entry points to build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/entry_points.txt
+writing requirements to build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/requires.txt
+writing top-level names to build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/top_level.txt
+writing manifest file 'build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/SOURCES.txt'
+reading manifest file 'build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/SOURCES.txt'
+writing manifest file 'build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build
+creating /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build/lib
+creating /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build/lib/scripts
+copying scripts/__init__.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build/lib/scripts
+copying scripts/move_turtles.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build/lib/scripts
+creating /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build/lib/turtlesim_circles_and_squares
+copying turtlesim_circles_and_squares/__init__.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build/lib/turtlesim_circles_and_squares
+running install
+running install_lib
+creating /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/turtlesim_circles_and_squares
+copying /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build/lib/turtlesim_circles_and_squares/__init__.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/turtlesim_circles_and_squares
+creating /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/scripts
+copying /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build/lib/scripts/__init__.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/scripts
+copying /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/build/lib/scripts/move_turtles.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/scripts
+byte-compiling /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/turtlesim_circles_and_squares/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/scripts/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/scripts/move_turtles.py to move_turtles.cpython-310.pyc
+running install_data
+creating /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/share/turtlesim_circles_and_squares/launch
+copying launch/turtlesim_launch.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/share/turtlesim_circles_and_squares/launch
+creating /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/share/ament_index
+creating /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/share/ament_index/resource_index
+creating /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/share/ament_index/resource_index/packages
+copying resource/turtlesim_circles_and_squares -> /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/share/ament_index/resource_index/packages
+copying package.xml -> /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/share/turtlesim_circles_and_squares
+running install_egg_info
+Copying build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info to /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/turtlesim_circles_and_squares-0.0.0-py3.10.egg-info
+running install_scripts
+Installing move_turtles script to /home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/install/turtlesim_circles_and_squares/lib/turtlesim_circles_and_squares
+writing list of installed files to '/home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares/build/turtlesim_circles_and_squares/install.log'

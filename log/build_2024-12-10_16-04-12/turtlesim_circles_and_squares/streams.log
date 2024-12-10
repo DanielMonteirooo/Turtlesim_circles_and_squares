@@ -1,0 +1,44 @@
+[0.571s] Invoking command in '/home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares': PYTHONPATH=/home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_circles_and_squares build --build-base /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build install --record /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/install.log --single-version-externally-managed install_data
+[0.766s] running egg_info
+[0.767s] creating ../../build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info
+[0.767s] writing ../../build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/PKG-INFO
+[0.767s] writing dependency_links to ../../build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/dependency_links.txt
+[0.767s] writing entry points to ../../build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/entry_points.txt
+[0.767s] writing requirements to ../../build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/requires.txt
+[0.767s] writing top-level names to ../../build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/top_level.txt
+[0.767s] writing manifest file '../../build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/SOURCES.txt'
+[0.769s] reading manifest file '../../build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/SOURCES.txt'
+[0.770s] writing manifest file '../../build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info/SOURCES.txt'
+[0.770s] running build
+[0.770s] running build_py
+[0.770s] creating /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build
+[0.770s] creating /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build/lib
+[0.770s] creating /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build/lib/scripts
+[0.770s] copying scripts/__init__.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build/lib/scripts
+[0.770s] copying scripts/move_turtles.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build/lib/scripts
+[0.770s] creating /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build/lib/turtlesim_circles_and_squares
+[0.770s] copying turtlesim_circles_and_squares/__init__.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build/lib/turtlesim_circles_and_squares
+[0.770s] running install
+[0.770s] running install_lib
+[0.771s] creating /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/turtlesim_circles_and_squares
+[0.771s] copying /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build/lib/turtlesim_circles_and_squares/__init__.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/turtlesim_circles_and_squares
+[0.771s] creating /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/scripts
+[0.771s] copying /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build/lib/scripts/__init__.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/scripts
+[0.771s] copying /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build/lib/scripts/move_turtles.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/scripts
+[0.772s] byte-compiling /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/turtlesim_circles_and_squares/__init__.py to __init__.cpython-310.pyc
+[0.772s] byte-compiling /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/scripts/__init__.py to __init__.cpython-310.pyc
+[0.772s] byte-compiling /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/scripts/move_turtles.py to move_turtles.cpython-310.pyc
+[0.772s] running install_data
+[0.772s] creating /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/share/turtlesim_circles_and_squares/launch
+[0.772s] copying launch/turtlesim_launch.py -> /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/share/turtlesim_circles_and_squares/launch
+[0.773s] creating /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/share/ament_index
+[0.773s] creating /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/share/ament_index/resource_index
+[0.773s] creating /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/share/ament_index/resource_index/packages
+[0.773s] copying resource/turtlesim_circles_and_squares -> /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/share/ament_index/resource_index/packages
+[0.773s] copying package.xml -> /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/share/turtlesim_circles_and_squares
+[0.773s] running install_egg_info
+[0.774s] Copying ../../build/turtlesim_circles_and_squares/turtlesim_circles_and_squares.egg-info to /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/python3.10/site-packages/turtlesim_circles_and_squares-0.0.0-py3.10.egg-info
+[0.775s] running install_scripts
+[0.791s] Installing move_turtles script to /home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/turtlesim_circles_and_squares
+[0.792s] writing list of installed files to '/home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/install.log'
+[0.810s] Invoked command in '/home/dani/Estudos/codas/tac_robotica/my_workspace/src/turtlesim_circles_and_squares' returned '0': PYTHONPATH=/home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dani/Estudos/codas/tac_robotica/my_workspace/install/turtlesim_circles_and_squares/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_circles_and_squares build --build-base /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/build install --record /home/dani/Estudos/codas/tac_robotica/my_workspace/build/turtlesim_circles_and_squares/install.log --single-version-externally-managed install_data
